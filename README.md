@@ -1,16 +1,33 @@
-## Hi there 👋
+# I'm Juan Paulo P. Mendez
 
-<!--
-**SioPau1005/SioPau1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics student at FEU Alabang (BS Information Technology). I turn data into insights through analysis and dashboards.
 
-Here are some ideas to get you started:
+## What I Can Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Business Analysis*
+- *Data Analysis & Visualisation*
+- *Consumer Behaviour Analysis*
+- *Quality Assurance*
+- *Project Management*
+
+## Tech Stack
+
+Python
+SQL
+MySQL
+Power BI
+Excel
+PHP
+Java
+C++
+HTML/CSS/JS
+Jupyter
+
+## Projects
+
+- *Inventory and Forecasting System for Prosel Pharma*: decision support system for a local Pharmaceutical, with KPI dashboards and demand forecasting.
+- *Instacart Market Basket Analysis*: customer buying behaviour dashboard with bundle and promotion recommendations
+
+## Contact
+
+📧 [jpaulopm10@gmail.com](mailto:jpaulopm10@gmail.com)
